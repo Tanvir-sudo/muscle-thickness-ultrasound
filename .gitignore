@@ -1,0 +1,15 @@
+# .NET build output
+app/bin/
+app/obj/
+.vs/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Inference outputs
+result.json
+seg_result.png
